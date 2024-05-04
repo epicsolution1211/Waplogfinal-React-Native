@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449766710609",
+    "firebase_url": "https://cupidoreactnative-4f251-default-rtdb.firebaseio.com",
+    "project_id": "cupidoreactnative-4f251",
+    "storage_bucket": "cupidoreactnative-4f251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449766710609:android:1172ed08ebd99c619e0770",
+        "android_client_info": {
+          "package_name": "com.singles.citaschatearligaryconocergente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449766710609-3tbtirq5nb5nplp5i3eshtpsjd6f3jfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.singles.citaschatearligaryconocergente",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "449766710609-fr8an3bpup09202ra2kleaeoae00e8ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxVAZBi0yYdrPjJU7kkATSwIamck7EE4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449766710609-fr8an3bpup09202ra2kleaeoae00e8ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

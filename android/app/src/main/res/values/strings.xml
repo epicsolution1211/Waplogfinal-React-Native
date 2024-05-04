@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cupido</string>
+    <string name="facebook_app_id">3472572346123436</string>
+   <string name="fb_login_protocol_scheme">fb3472572346123436</string>
+</resources>
